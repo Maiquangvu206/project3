@@ -8,7 +8,7 @@
 | STT | Họ và tên | Mã sinh viên | Vai trò / Nhiệm vụ chính |
 | :---: | :--- | :---: | :--- |
 | 1 | Mai Quang Vũ | 2451160817 | Trưởng nhóm, Thiết kế Cơ sở dữ liệu & Backend API |
-| 2 | [Tên Thành viên 2] | [MSV] | Phát triển Giao diện Dashboard & Quản lý chuyến bay (Frontend) |
+| 2 | Tạ Minh Hiếu] | 2451160776 | Phát triển Giao diện Dashboard & Quản lý chuyến bay (Frontend) |
 | 3 | [Tên Thành viên 3] | [MSV] | Xức năng Tra cứu, Đặt vé & Quản lý người dùng |
 
 ## 🛠 3. Công nghệ sử dụng

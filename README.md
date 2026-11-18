@@ -7,9 +7,10 @@
 ## 👥 2. Thành viên nhóm & Phân công công việc
 | STT | Họ và tên | Mã sinh viên | Vai trò / Nhiệm vụ chính |
 | :---: | :--- | :---: | :--- |
-| 1 | Mai Quang Vũ | 2451160817 | Trưởng nhóm, Thiết kế Cơ sở dữ liệu & Backend API |
-| 2 | Tạ Minh Hiếu] | 2451160776 | Phát triển Giao diện Dashboard & Quản lý chuyến bay (Frontend) |
-| 3 | [Tên Thành viên 3] | [MSV] | Xức năng Tra cứu, Đặt vé & Quản lý người dùng |
+| 1 | Vũ Mai Quang | 2451160817 | Trưởng nhóm, Thiết kế Cơ sở dữ liệu & Xây dựng Core Backend API |
+| 2 | Nguyễn Linh Chi | 2451160750 | Phát triển Giao diện Quản trị (Admin Dashboard & Quản lý chuyến bay) |
+| 3 | Nguyễn Thị Diệu | 2451160756 | Phát triển Giao diện Người dùng (Trang chủ, Tra cứu & Đặt vé) |
+| 4 | Tạ Minh Hiếu | 2451160776 | Tích hợp API, Xử lý phân quyền (Auth) & Kiểm thử (Testing/Documentation) |
 
 ## 🛠 3. Công nghệ sử dụng
 * **Frontend:** React.js / Next.js, Tailwind CSS, Lucide Icons
